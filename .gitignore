@@ -1,1 +1,7 @@
-cnn/Dataset/
+cnn/Dataset/dog
+cnn/dog_or*.h5
+cnn/Dataset/house
+cnn/Dataset/validation
+cnn/lib*
+
+
