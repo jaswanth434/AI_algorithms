@@ -101,5 +101,4 @@ def hmm_path_finder():
         else:
             print("Invalid emission sequence. Please enter a valid sequence.")
    
-# Call the function
 hmm_path_finder()
